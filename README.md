@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kamja44's&nbsp;GitHub&nbsp;Page&fontSize=70&animation=fadeIn&fontColor=FF7F50)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamja44&show_icons=true&theme=radical)
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamja44&layout=compact)](https://github.com/kamja44)
