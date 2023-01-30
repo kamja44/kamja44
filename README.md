@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p>
 <h2>Studing Now</h2>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAF8?style=flat&logo=61DAF8&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAF8?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
