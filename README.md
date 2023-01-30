@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=Pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=0052CC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 </p>
 
   <h2>Kamja44's Github Stat</h2>
