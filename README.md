@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h2>Skill</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>                    
   <img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=Pug&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+
 </p>
 <p>
 <h2>Studing Now</h2>
