@@ -52,10 +52,6 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 </p>
 
-  <h2>Kamja44's Github Stat</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamja44&show_icons=true&theme=radical)
-
   <h2>Kamja44's Most Used Languages</h2>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamja44&layout=compact)](https://github.com/kamja44)
