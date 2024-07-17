@@ -1,6 +1,6 @@
 
 
-
+<!--
 <div align=center>
 
 <h2>Skill</h2>
@@ -32,3 +32,4 @@
   </p>
   
 </div>
+-->
