@@ -24,9 +24,9 @@ I’m **[HyeongHo Jun]**.
 ---
 
 ## Tools & Workflow
-- **Git / GitHub Flow**: 협업과 코드 버전 관리를 위해 사용
-- **Jira / Confluence**: 프로젝트 이슈 추적, 문서 공유
-- **Slack**: 팀 커뮤니케이션 및 알림 수신
+- **Git / GitHub Flow**
+- **Jira / Confluence**
+- **Slack**
 
 ---
 
