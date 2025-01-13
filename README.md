@@ -1,9 +1,9 @@
 ### Hi there 👋  
 I’m **[HyeongHo Jun]**.
 
-- (전) 진우소프트이노베이션 **SW Engineer (2021.09 - 2023.08)**
-- (전) 광운대학교 대학원 컴퓨터공학 **(2023.09 - 2024.08)**
-- (현) 제네시스네스트 **FE Developer (2024.09 - )**
+- JinwooSoft Innovation **SW Engineer (2021.09 - 2023.08)**
+- Kwangwoon University Graduate School of Computer Engineering **(2023.09 - 2024.08)**
+- Genesisnest **FE Developer (2024.09 - )**
 
 ---
 
@@ -11,10 +11,15 @@ I’m **[HyeongHo Jun]**.
 #### Front-End
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
 #### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+
+#### Mobile / App
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+
 
 #### Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -37,7 +42,7 @@ I’m **[HyeongHo Jun]**.
 ---
 
 ### About Me
-- 🔭 **I’m currently working on** FE development at 제네시스네스트.
+- 🔭 **I’m currently working on** FE development at Genesisnest.
 - 🌱 **I’m currently learning** deeper concepts in full-stack development & ML.
 - 👯 **I’m looking to collaborate on** interesting TS/React/Node.js side projects.
 - 💬 **Ask me about** anything related to web development or ML.
