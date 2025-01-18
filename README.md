@@ -2,8 +2,14 @@
 I’m **[HyeongHo Jun]**.
 
 - JinwooSoft Innovation **SW Engineer (2021.09 - 2023.08)**
+  - **World Natural Heritage Monitoring System** (Front-End)
+  - **Jeju Provincial Office EV Monitoring System** (Front-End)
+  - **Dump Data Automation System** (Full Stack)
 - Kwangwoon University Graduate School of Computer Engineering **(2023.09 - 2024.08)**
+  - **Remote PPG (rPPG) Project for Senior Citizens**  
+    *Developed an ML-based approach to monitor vital signs (e.g., heart rate) in a contactless manner, aiming to improve health monitoring and safety for the elderly.*
 - Genesisnest **FE Developer (2024.09 - )**
+  - **KIA ONE APP (Back Office)** (Front-End)
 
 ---
 
@@ -43,7 +49,7 @@ I’m **[HyeongHo Jun]**.
 
 ### About Me
 - 🔭 **I’m currently working on** FE development at Genesisnest.
-- 🌱 **I’m currently learning** deeper concepts in full-stack development & ML.
+- 🌱 **I’m currently learning** deeper concepts in full-stack development, NestJS, Block-Chain
 - 👯 **I’m looking to collaborate on** interesting TS/React/Node.js side projects.
 - 💬 **Ask me about** anything related to web development or ML.
 - 📫 **How to reach me**: [gudgh5007@gmail.com]
