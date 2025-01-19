@@ -37,15 +37,13 @@ I’m **[HyeongHo Jun]**.
   
 3. **Jeju American Football Club Website**  
    **Tech Stack**:  
-   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
    ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
    **Description**:  
-   A dedicated website for a Jeju-based American football club. Implemented front-end UI for team information, membership signup, and upcoming events, along with a Node.js/Express + MongoDB back-end for managing data and scheduling.
+   A dedicated website for a Jeju-based American football club, featuring a Node.js/Express + MongoDB back-end for managing membership data, scheduling, and events.
    - **Live Demo**: [https://jeju-deers.github.io/jeju-deers-frontend](https://jeju-deers.github.io/jeju-deers-frontend)  
-   - **GitHub Repository(Front)**: [https://github.com/jeju-deers/jeju-deers-frontend](https://github.com/jeju-deers/jeju-deers-frontend)
-   - **GitHub Repository(Back)**: [https://github.com/jeju-deers/jeju-deers-backend](https://github.com/jeju-deers/jeju-deers-backend)
+   - **GitHub Repository**: [https://github.com/jeju-deers/jeju-deers-backend](https://github.com/jeju-deers/jeju-deers-backend)
 ---
 
 ## Tech Stacks
