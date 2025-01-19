@@ -71,6 +71,8 @@ I’m **[HyeongHo Jun]**.
 - **Git / GitHub Flow**
 - **Jira / Confluence**
 - **Slack**
+- **Docker** (basic containerization knowledge; currently exploring advanced usage)
+- **CI/CD Pipelines** (studying GitHub Actions & Jenkins; not yet used in production)
 
 ---
 
@@ -82,7 +84,7 @@ I’m **[HyeongHo Jun]**.
 
 ### About Me
 - 🔭 **I’m currently working on** FE development at Genesisnest.
-- 🌱 **I’m currently learning** deeper concepts in full-stack development, NestJS, Block-Chain
+- 🌱 **I’m currently learning** Blockchain, NestJS, Docker and CI/CD pipelines (primarily via personal projects).
 - 👯 **I’m looking to collaborate on** interesting TS/React/Node.js side projects.
 - 💬 **Ask me about** anything related to web development or ML.
 - 📫 **How to reach me**: [gudgh5007@gmail.com]
