@@ -13,6 +13,41 @@ I’m **[HyeongHo Jun]**.
 
 ---
 
+## Side Projects
+
+1. **YouTube Clone**  
+   **Tech Stack**:  
+   ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+   **Description**:  
+   A full-stack clone of YouTube, where users can upload, watch, and comment on videos. Built to practice server-side rendering, RESTful API design, and database handling using MongoDB and Node.js.
+   - **Live Demo**: [https://wetubechallenge2024-kamja.fly.dev](https://wetubechallenge2024-kamja.fly.dev)  
+   - **GitHub Repository**: [https://github.com/kamja44/wetubeChallenge](https://github.com/kamja44/wetubeChallenge)
+
+2. **Twitter Clone**  
+   **Tech Stack**:  
+   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  
+   **Description**:  
+   A simplified Twitter-like platform built with Next.js for server-side rendering and React for dynamic UI. Focused on implementing features like posting tweets, following users, and real-time updates.
+   - **Live Demo**: Not Deployed Yet (Work in Progress)  
+   - **GitHub Repository**: [https://github.com/kamja44/z-com](https://github.com/kamja44/z-com)
+  
+3. **Jeju American Football Club Website**  
+   **Tech Stack**:  
+   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+   **Description**:  
+   A dedicated website for a Jeju-based American football club. Implemented front-end UI for team information, membership signup, and upcoming events, along with a Node.js/Express + MongoDB back-end for managing data and scheduling.
+   - **Live Demo**: [https://jeju-deers.github.io/jeju-deers-frontend] (https://jeju-deers.github.io/jeju-deers-frontend)  
+   - **GitHub Repository(Front)**: [https://github.com/jeju-deers/jeju-deers-frontend](https://github.com/jeju-deers/jeju-deers-frontend)
+   - **GitHub Repository(Back)**: [https://github.com/jeju-deers/jeju-deers-backend](https://github.com/jeju-deers/jeju-deers-backend)
+---
+
 ## Tech Stacks
 #### Front-End
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
