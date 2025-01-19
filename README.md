@@ -43,7 +43,7 @@ I’m **[HyeongHo Jun]**.
    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
    **Description**:  
    A dedicated website for a Jeju-based American football club. Implemented front-end UI for team information, membership signup, and upcoming events, along with a Node.js/Express + MongoDB back-end for managing data and scheduling.
-   - **Live Demo**: [https://jeju-deers.github.io/jeju-deers-frontend] (https://jeju-deers.github.io/jeju-deers-frontend)  
+   - **Live Demo**: [https://jeju-deers.github.io/jeju-deers-frontend](https://jeju-deers.github.io/jeju-deers-frontend)  
    - **GitHub Repository(Front)**: [https://github.com/jeju-deers/jeju-deers-frontend](https://github.com/jeju-deers/jeju-deers-frontend)
    - **GitHub Repository(Back)**: [https://github.com/jeju-deers/jeju-deers-backend](https://github.com/jeju-deers/jeju-deers-backend)
 ---
