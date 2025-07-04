@@ -53,9 +53,10 @@ I’m **[HyeongHo Jun]**.
      - Added unit tests for internal utility functions (e.g., `live`).
      - Focused on ensuring type safety with `Ref` and `HTMLElement` handling.
 
-3. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
-   - Exploring timezone utilities and contributing improvements to UTC conversion helpers.
-   - - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
+2. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
+   - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
+     - Improved type safety in setDefaultOptions by eliminating as any casts and assigning properties explicitly
+     
 
 ---
 
