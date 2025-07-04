@@ -46,6 +46,19 @@ I’m **[HyeongHo Jun]**.
    - **GitHub Repository**: [https://github.com/jeju-deers/jeju-deers-backend](https://github.com/jeju-deers/jeju-deers-backend)
 ---
 
+## Open Source Contributions
+
+1. **[react-hook-form](https://github.com/react-hook-form/react-hook-form)**
+   - [PR #12932](https://github.com/react-hook-form/react-hook-form/pull/12932)
+     - Added unit tests for internal utility functions (e.g., `live`).
+     - Focused on ensuring type safety with `Ref` and `HTMLElement` handling.
+
+3. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
+   - Exploring timezone utilities and contributing improvements to UTC conversion helpers.
+   - - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
+
+---
+
 ## Tech Stacks
 #### Front-End
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
