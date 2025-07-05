@@ -52,6 +52,9 @@ I’m **[HyeongHo Jun]**.
    - [PR #12932](https://github.com/react-hook-form/react-hook-form/pull/12932)
      - Added unit tests for internal utility functions (e.g., `live`).
      - Focused on ensuring type safety with `Ref` and `HTMLElement` handling.
+   - [PR #12934](https://github.com/react-hook-form/react-hook-form/pull/12934)
+     - Added comprehensive unit tests for hasValidation, covering all validation rule branches and edge cases.
+     - Improved type safety by eliminating as any and using type-safe test field definitions.
 
 2. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
    - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
