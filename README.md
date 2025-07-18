@@ -48,15 +48,23 @@ I’m **[HyeongHo Jun]**.
 
 ## Open Source Contributions
 
-1. **[react-hook-form](https://github.com/react-hook-form/react-hook-form)**
+1. **[gemini-cli](https://github.com/google-gemini/gemini-cli)**
+   - [PR #4287](https://github.com/google-gemini/gemini-cli/pull/4287)
+     - Replaced the TODO in loadCodeAssist test with a realistic LoadCodeAssistResponse mock.
+     - Added assertions to validate key response fields like currentTier and allowedTiers.
+  
+2. **[react-hook-form](https://github.com/react-hook-form/react-hook-form)**
    - [PR #12932](https://github.com/react-hook-form/react-hook-form/pull/12932)
      - Added unit tests for internal utility functions (e.g., `live`).
      - Focused on ensuring type safety with `Ref` and `HTMLElement` handling.
    - [PR #12934](https://github.com/react-hook-form/react-hook-form/pull/12934)
      - Added comprehensive unit tests for hasValidation, covering all validation rule branches and edge cases.
      - Improved type safety by eliminating as any and using type-safe test field definitions.
+   - [PR #12940](https://github.com/react-hook-form/react-hook-form/pull/12940)
+     - Added unit tests for unsetEmptyArray, isWeb, and getValidationModes utility functions.
+     - Verified their behaviors to ensure reliability across different use cases.
 
-2. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
+3. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
    - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
      - Improved type safety in setDefaultOptions by eliminating as any casts and assigning properties explicitly
      
@@ -116,3 +124,5 @@ I’m **[HyeongHo Jun]**.
 
 ### Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white)](mailto:gudgh5007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/%ED%98%95%ED%98%B8-%EC%A0%84-434842347/)
+
