@@ -52,6 +52,9 @@ I’m **[HyeongHo Jun]**.
    - [PR #4287](https://github.com/google-gemini/gemini-cli/pull/4287)
      - Replaced the TODO in loadCodeAssist test with a realistic LoadCodeAssistResponse mock.
      - Added assertions to validate key response fields like currentTier and allowedTiers.
+   - [PR #4575](https://github.com/google-gemini/gemini-cli/pull/4575)
+     - Unified partToString to handle both plain text and verbose summary modes, replacing partListUnionToString with a thin wrapper.
+     - Consolidated related tests into partUtils.test.ts, removing redundancy and improving maintainability.
   
 2. **[react-hook-form](https://github.com/react-hook-form/react-hook-form)**
    - [PR #12932](https://github.com/react-hook-form/react-hook-form/pull/12932)
