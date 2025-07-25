@@ -66,6 +66,9 @@ I’m **[HyeongHo Jun]**.
    - [PR #12940](https://github.com/react-hook-form/react-hook-form/pull/12940)
      - Added unit tests for unsetEmptyArray, isWeb, and getValidationModes utility functions.
      - Verified their behaviors to ensure reliability across different use cases.
+   - [PR #12967](https://github.com/react-hook-form/react-hook-form/pull/12967)
+     - Added unit tests for convertToArrayPayload to verify handling of both array and non-array inputs.
+     - Ensures correct wrapping logic and structural equality using toStrictEqual.
 
 3. **[date-fns](https://github.com/date-fns/date-fns)** (in progress)
    - [PR #4049](https://github.com/date-fns/date-fns/pull/4049)
