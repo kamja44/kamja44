@@ -9,7 +9,8 @@ I’m **[HyeongHo Jun]**.
   - **Remote PPG (rPPG) Project for Senior Citizens**  
     *Developed an ML-based approach to monitor vital signs (e.g., heart rate) in a contactless manner, aiming to improve health monitoring and safety for the elderly.*
 - Genesisnest **FE Developer (2024.09 - )**
-  - **KIA ONE APP (Back Office)** (Front-End)
+  - **KIA/HYUNDAI/GENESIS ONE APP (Back Office)** (Front-End)
+  - **KIA/HYUNDAI/GENESIS ONE APP (Front Office)** (Front-End)
 
 ---
 
