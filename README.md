@@ -8,9 +8,18 @@ I’m **[HyeongHo Jun]**.
 - Kwangwoon University Graduate School of Computer Engineering **(2023.09 - 2024.08)**
   - **Remote PPG (rPPG) Project for Senior Citizens**  
     *Developed an ML-based approach to monitor vital signs (e.g., heart rate) in a contactless manner, aiming to improve health monitoring and safety for the elderly.*
-- Genesisnest **FE Developer (2024.09 - )**
-  - **KIA/HYUNDAI/GENESIS ONE APP (Back Office)** (Front-End)
-  - **KIA/HYUNDAI/GENESIS ONE APP (Front Office)** (Front-End)
+- GenesisNest **Front-End Engineer (2024.09 - Present)**
+  - **KIA / HYUNDAI / GENESIS ONE APP – Back Office (Admin)**  
+    *Developed a global admin system for managing events, banners, and contents across multiple regions.*  
+    *Built with **React, TypeScript, Zustand, TanStack Query, Froala Editor, and MUI**.*  
+    *Implemented an i18n-based multilingual architecture and optimized API state management for faster data loading.*
+
+  - **KIA / HYUNDAI / GENESIS ONE APP – Front Office (In-App WebView)**  
+    *Migrated the existing **Vue 3 WebView to React**, improving maintainability and performance across multiple brands.*  
+    *Enhanced **UX flow and interaction consistency** to ensure a seamless user experience.*  
+    *Ensured **stable Native Bridge communication** between the WebView and the native app, maintaining reliable data synchronization.*
+
+
 
 ---
 
