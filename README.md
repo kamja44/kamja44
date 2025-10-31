@@ -1,13 +1,6 @@
 ### Hi there 👋  
 I’m **[HyeongHo Jun]**.
 
-- JinwooSoft Innovation **SW Engineer (2021.09 - 2023.08)**
-  - **World Natural Heritage Monitoring System** (Front-End)
-  - **Jeju Provincial Office EV Monitoring System** (Front-End)
-  - **Dump Data Automation System** (Full Stack)
-- Kwangwoon University Graduate School of Computer Engineering **(2023.09 - 2024.08)**
-  - **Remote PPG (rPPG) Project for Senior Citizens**  
-    - *Developed an ML-based approach to monitor vital signs (e.g., heart rate) in a contactless manner, aiming to improve health monitoring and safety for the elderly.*
 - GenesisNest **Front-End Engineer (2024.09 - Present)**
   - **KIA / HYUNDAI / GENESIS ONE APP – Back Office (Admin)**  
     - *Developed a global admin system for managing events, banners, and contents across multiple regions.*  
@@ -18,6 +11,17 @@ I’m **[HyeongHo Jun]**.
     - *Migrated the existing **Vue 3 WebView to React**, improving maintainability and performance across multiple brands.*  
     - *Enhanced **UX flow and interaction consistency** to ensure a seamless user experience.*  
     - *Ensured **stable Native Bridge communication** between the WebView and the native app, maintaining reliable data synchronization.*
+
+- Kwangwoon University Graduate School of Computer Engineering **(2023.09 - 2024.08)**
+  - **Remote PPG (rPPG) Project for Senior Citizens**  
+    - *Developed an ML-based approach to monitor vital signs (e.g., heart rate) in a contactless manner, aiming to improve health monitoring and safety for the elderly.*
+
+- JinwooSoft Innovation **SW Engineer (2021.09 - 2023.08)**
+  - **World Natural Heritage Monitoring System** (Front-End)
+  - **Jeju Provincial Office EV Monitoring System** (Front-End)
+  - **Dump Data Automation System** (Full Stack)
+
+
 
 
 
