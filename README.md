@@ -116,6 +116,7 @@ Google Gemini CLI tool with **300K+ weekly downloads**
 **Major Contributions**:
 - [PR #4287](https://github.com/google-gemini/gemini-cli/pull/4287): Improved CLI command test code quality
 - [PR #4575](https://github.com/google-gemini/gemini-cli/pull/4575): Enhanced input validation logic and error handling
+- [PR #14701](https://github.com/google-gemini/gemini-cli/pull/14701): Enhanced error handling for MCP client manager initialization to prevent crashes
 
 ---
 
@@ -154,12 +155,11 @@ Google Gemini CLI tool with **300K+ weekly downloads**
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamja44&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamja44&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamja44&show_icons=true&theme=tokyonight)](https://github.com/kamja44)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamja44&layout=compact)](https://github.com/kamja44)
 
-</div>
+
 
 ---
 
