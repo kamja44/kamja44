@@ -123,7 +123,7 @@ Google Gemini CLI tool with **300K+ weekly downloads**
 ## 💼 Work Experience
 
 ### 🚗 Genesisnest Inc. | Frontend Developer
-**Sep 2024 - Present (1 year 4 months)**
+**Sep 2024 - Present**
 
 #### KIA/HYUNDAI/GENESIS ONE APP - Back Office
 - **60% faster page loading** (5s → 2s) through TanStack Query optimization
