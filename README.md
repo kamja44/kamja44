@@ -1,6 +1,6 @@
 # Hi there, I'm HyeongHo Jun 👋
 
-**Frontend Developer** (4 years)
+**Frontend Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kamja44.github.io-blue?style=flat-square)](https://kamja44.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%ED%98%95%ED%98%B8-%EC%A0%84-434842347/)
